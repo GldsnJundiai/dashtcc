@@ -1,0 +1,100 @@
+Produto,Marca,Categoria,Custo,Preco Venda,Venda Qtd,Venda R$ total,Lucro,Estoque físico Sistema,Estoque Financeiro,Contagem,Saldo Contagem físico,Estoque Contagem Financeiro,Cidade,Longitude,Latitude
+Chocolate,Nestlé,Mercearia,"3,5",7,590,4130,2065,88,308,66,-22,-77,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Nestlé,Mercearia,2,5,547,2735,1641,43,86,22,-21,-42,Jundiaí,-231.857,-468.978
+Coca-cola,Coca-cola,Refrigerante,"5,5",10.5,449,7.3,2.6,33,"181,5",33,0,0,Jundiaí,-231.857,-468.978
+Guaraná,Antartica,Refrigerante,"4,5",9,790,7110,3555,34,153,28,-6,-27,Jundiaí,-231.857,-468.978
+Suco,Dellvale,Refrigerante,"2,7",5,237,1185,"545,1",22,"59,4",21,-1,"-2,7",Jundiaí,-231.857,-468.978
+Paçoca,Mineirinha,Mercearia,1,2.4,400,12.11,8.10,88,88,66,-22,-22,Jundiaí,-231.857,-468.978
+Pasta de dente,Colgate,Higiene,"1,6",3.8,245,5.7,8.6,21,"33,6",18,-3,"-4,8",Jundiaí,-231.857,-468.978
+Shampoo,Nivea,Higiene,7,15,330,4950,2640,45,315,41,-4,-28,Jundiaí,-231.857,-468.978
+Desodorante,Rexona,Higiene,7,14,298,4172,2086,49,343,42,-7,-49,Jundiaí,-231.857,-468.978
+Desodorante,Nivea,Higiene,"6,5",13,250,3250,1625,32,208,36,4,26,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Bauducco,Mercearia,"2,3",4.6,231,1.4,16.10,43,"98,9",40,-3,"-6,9",Jundiaí,-231.857,-468.978
+Pão de forma,Pulmman,Padaria,"4,6",8,390,3120,1326,23,"105,8",23,0,0,Jundiaí,-231.857,-468.978
+Pão de forma,Wickbold,Padaria,"4,5",7,245,1715,"612,5",21,"94,5",15,-6,-27,Jundiaí,-231.857,-468.978
+Chocolate,Garoto,Mercearia,"3,8",6,456,2736,"1003,2",36,"136,8",34,-2,"-7,6",Jundiaí,-231.857,-468.978
+Sabonete,Lux,Higiene,"1,8",3,343,1029,"411,6",15,27,16,1,"1,8",Jundiaí,-231.857,-468.978
+Sabonete,Granado,Higiene,"2,5",4.3,190,9.10,21.6,23,"57,5",17,-6,-15,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,6,378,2268,1512,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,9,27,243,189,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,8,78,624,468,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,6,390,2340,1560,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,4,440,1760,880,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,4,435,1740,870,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,5,480,2400,1440,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,2,678,1356,0,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,"1,8",480,864,-96,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,7,333,2331,1665,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,8,99,792,594,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,480,6.3,20.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3,580,1740,580,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,486,26.3,28.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,471,5.2,9.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,5,360,1800,1080,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,499,5.9,12.12,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,490,7.8,30.11,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,9,15,135,105,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,488,30.11,29.3,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,440,1.7,2.2,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3,600,1800,600,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,477,25.2,16.7,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,2.7,560,15.7,20.6,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,470,4.10,9.3,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,450,1.12,15.6,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Biscoito Recheado,Negresco,Mercearia,2,3.5,466,23.5,2.11,35,70,26,-9,-18,Jundiaí,-231.857,-468.978
+Coca-Cola 2L,Coca-Cola,Refrigerantes        ,8,"6,5",120,780,-180,150,1200,140,-10,-80,Jundiaí,-231857,-468978
+Fanta Laranja 1L,Coca-Cola,Refrigerantes,"3,5",7,200,1400,700,180,630,190,10,35,Jundiaí,-231857,-468978
+Fanta Laranja 1L,Coca-Cola,Refrigerantes,"3,5",9,120,1080,660,180,630,190,10,35,Jundiaí,-231857,-468978
+Fanta Laranja 1L,Coca-Cola,Refrigerantes,"3,5",12,70,840,595,180,630,190,10,35,Jundiaí,-231857,-468978
+Coca-Cola 2L,Coca-Cola,Refrigerantes        ,4,12,80,960,640,150,600,140,-10,-40,Jundiaí,-231857,-468978
+Coca-Cola 2L,Coca-Cola,Refrigerantes        ,4,9,180,1620,900,150,600,140,-10,-40,Jundiaí,-231857,-468978
+Coca-Cola 2L,Coca-Cola,Refrigerantes        ,4,10,120,1200,720,150,600,140,-10,-40,Jundiaí,-231857,-468978
+Sprite 2L,Coca-Cola,Refrigerantes,"4,2",6,150,900,270,100,420,110,10,42,Jundiaí,-231857,-468978
+Sprite 2L,Coca-Cola,Refrigerantes,"4,2",6,150,900,270,100,420,110,10,42,Jundiaí,-231857,-468978
+Sprite 2L,Coca-Cola,Refrigerantes,"4,2",6,150,900,270,100,420,110,10,42,Jundiaí,-231857,-468978
+Sprite 2L,Coca-Cola,Refrigerantes,"4,2",6,150,900,270,100,420,110,10,42,Jundiaí,-231857,-468978
+Pizza Margherita 500g,Sadia,Congelados,"6,5",12,80,960,440,100,650,95,-5,"-32,5",Jundiaí,-231857,-468978
+Pizza Margherita 500g,Sadia,Congelados,"6,5",12,80,960,440,100,650,95,-5,"-32,5",Jundiaí,-231857,-468978
+Pizza Margherita 500g,Sadia,Congelados,"6,5",12,80,960,440,100,650,95,-5,"-32,5",Jundiaí,-231857,-468978
+Pizza Margherita 500g,Sadia,Congelados,"6,5",12,80,960,440,100,650,95,-5,"-32,5",Jundiaí,-231857,-468978
+Hambúrguer Congelado 1kg,Perdigão,Congelados,10,18,150,2700,1200,120,1200,130,10,100,Jundiaí,-231857,-468978
+Hambúrguer Congelado 1kg,Perdigão,Congelados,10,18,150,2700,1200,120,1200,130,10,100,Jundiaí,-231857,-468978
+Hambúrguer Congelado 1kg,Perdigão,Congelados,10,18,150,2700,1200,120,1200,130,10,100,Jundiaí,-231857,-468978
+Hambúrguer Congelado 1kg,Perdigão,Congelados,10,18,150,2700,1200,120,1200,130,10,100,Jundiaí,-231857,-468978
+Lasanha Tradicional 1kg,Seara,Congelados,"8,5",15,60,900,390,80,680,75,-5,"-42,5",Jundiaí,-231857,-468978
+Lasanha Tradicional 1kg,Seara,Congelados,"8,5",15,60,900,390,80,680,75,-5,"-42,5",Jundiaí,-231857,-468978
+Lasanha Tradicional 1kg,Seara,Congelados,"8,5",15,60,900,390,80,680,75,-5,"-42,5",Jundiaí,-231857,-468978
+Lasanha Tradicional 1kg,Seara,Congelados,"8,5",15,60,900,390,80,680,75,-5,"-42,5",Jundiaí,-231857,-468978
+Arroz 5kg,Tio João,Mercearia,10,18,200,3600,1600,150,1500,145,-5,-50,Jundiaí,-231857,-468978
+Arroz 5kg,Namorado,Mercearia,9,18,200,3600,1800,150,1350,145,-5,-45,Jundiaí,-231857,-468978
+Arroz 5kg,Namorado,Mercearia,9,18,200,3600,1800,150,1350,145,-5,-45,Jundiaí,-231857,-468978
+Arroz 2kg,Prato  Fino,Mercearia,6,14,200,2800,1600,150,900,145,-5,-30,Jundiaí,-231857,-468978
+Arroz kg,Tio João,Mercearia,10,18,200,3600,1600,150,1500,145,-5,-50,Jundiaí,-231857,-468978
+Arroz 5kg,Tio João,Mercearia,10,18,200,3600,1600,150,1500,145,-5,-50,Jundiaí,-231857,-468978
+Arroz 5kg,Tio João,Mercearia,10,18,200,3600,Sorvete,150,1500,145,-5,-50,Jundiaí,-231857,-468978
+Feijão Preto 1kg,Camil,Mercearia,4,"6,5",250,1625,625,180,720,190,10,40,Jundiaí,-231857,-468978
+Feijão Preto 1kg,Camil,Mercearia,4,"6,5",250,1625,625,180,720,190,10,40,Jundiaí,-231857,-468978
+Feijão Preto 1kg,Camil,Mercearia,4,"6,5",250,1625,625,180,720,190,10,40,Jundiaí,-231857,-468978
+Óleo Soja 900ml,Liza,Mercearia,"3,2",5,180,900,324,120,384,115,-5,-16,Jundiaí,-231857,-468978
+Óleo Soja 900ml,Liza,Mercearia,"3,2",5,180,900,324,120,384,115,-5,-16,Jundiaí,-231857,-468978
+Óleo Soja 900ml,Liza,Mercearia,"3,2",5,180,900,324,120,384,115,-5,-16,Jundiaí,-231857,-468978
+Caixa de Bombom 300g,Garoto,Mercearia,16,20,200,4000,800,120,1920,115,-5,-80,Jundiaí,-231857,-468978
+Caixa de Bombom 300g,Garoto,Mercearia,16,20,200,4000,800,120,1920,115,-5,-80,Jundiaí,-231857,-468978
+Sorvete,Nestlé,Mercearia,15,19,150,2850,600,120,1800,115,-5,-75,Jundiaí,-231857,-468978
+Sorvete,Nestlé,Mercearia,15,19,150,2850,600,120,1800,115,-5,-75,Jundiaí,-231857,-468978
+Caderno,Tilibra,Material Escolar,10,14,60,840,240,120,1200,115,-5,-50,Jundiaí,-231857,-468978
+Caderno,Tilibra,Material Escolar,10,14,60,840,240,120,1200,115,-5,-50,Jundiaí,-231857,-468978
+Caixa de Pilha AAA com 40 unidades,Elgin,Eletricidade,25,30,50,1500,250,120,3000,115,-5,-125,Jundiaí,-231857,-468978
+Antitranspirante Aerossol,Rexona,Higiene,8,16,200,3200,1600,120,960,115,-5,-40,Jundiaí,-231857,-468978
+Ketchup,Heinz,Mercearia,15,22,130,2860,910,120,1800,115,-5,-75,Jundiaí,-231857,-468978
+Papel para Desenho em Bloco,CANSON,Material Escolar,16,21,20,420,100,50,800,115,65,1040,Jundiaí,-231857,-468978
+Sorvete,Nestlé,Mercearia,15,19,150,2850,600,120,1800,115,-5,-75,Jundiaí,-231857,-468978
+Sorvete,Nestlé,Mercearia,15,19,150,2850,600,120,1800,115,-5,-75,Jundiaí,-231857,-468978
